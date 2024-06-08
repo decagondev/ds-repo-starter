@@ -1,0 +1,9 @@
+certifi
+MonsterLab
+pandas
+flask
+python-dotenv
+pymongo
+altair
+joblib
+scikit-learn
